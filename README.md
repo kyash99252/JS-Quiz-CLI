@@ -9,7 +9,6 @@ Welcome to **Who Wants to Be a JavaScript Millionaire**, a fun command-line quiz
 - [Usage](#usage)
 - [Questions](#questions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -74,11 +73,5 @@ The game currently includes the following questions:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Have fun and good luck! 🎉
