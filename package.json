@@ -1,0 +1,22 @@
+{
+  "name": "cli-tool",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/chalk-animation": "^1.6.3",
+    "@types/figlet": "^1.5.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.7.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^11.1.0",
+    "nanospinner": "^1.1.0",
+    "terminal-image": "^3.0.0"
+  }
+}
